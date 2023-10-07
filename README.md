@@ -10,3 +10,4 @@ There are `init.sh` files that run with one argument in each directory that allo
 ## Templates
 
 -   [HTMX](./htmx/README.md)
+-   [Pygame](./pygame/README.md)
