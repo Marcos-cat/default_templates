@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 filepath=~/Documents/Defaults/htmx
 
 mkdir $1
